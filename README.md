@@ -6,6 +6,9 @@ AI Attention Visualizer is a Streamlit-based application that extracts text from
 
 The project demonstrates the basic workflow of text processing, word embeddings, and attention calculation.
 
+## Demo
+https://ai-attention-visualizer-wgdudt3jhwhplptsva28rd.streamlit.app/
+
 ## Features
 
 - Upload JPG, JPEG, and PNG images
